@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ElderCareLiveWebsiteReact/static/css/main.31d6cfe0.css",
+    "main.js": "/ElderCareLiveWebsiteReact/static/js/main.43f2b770.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ElderCareLiveWebsiteReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ElderCareLiveWebsiteReact/index.html",
+    "main.43f2b770.js.map": "/ElderCareLiveWebsiteReact/static/js/main.43f2b770.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ElderCareLiveWebsiteReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.43f2b770.js"
+  ]
+}
