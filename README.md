@@ -14,6 +14,6 @@
 [OldAgeCare.pdf](https://github.com/pjwarrior20/ElderCareLiveWebsiteReact/files/11727979/OldAgeCare.pdf)
 
 
-## To See Live Website CLICK HERE (sorry , pic loading takes Time)
+## To See Live Website CLICK HERE 
 
-https://pjwarrior20.github.io/ElderCareLiveWebsiteReact/
+https://boisterous-smakager-35c1f9.netlify.app/Contact
